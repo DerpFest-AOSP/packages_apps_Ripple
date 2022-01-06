@@ -2,5 +2,4 @@
 <resources>
     <string name="settings_name">إعدادات الذعر</string>
     <string name="settings_summary">قم بإعداد الرد في حالة الذعر الطارئة.</string>
-    <string name="panic_tile_label"></string>
 </resources>

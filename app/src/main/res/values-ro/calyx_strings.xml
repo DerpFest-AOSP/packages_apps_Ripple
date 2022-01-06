@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="settings_summary"></string>
-    <string name="panic_tile_label"></string>
-    <string name="settings_name"></string>
-</resources>
+<resources></resources>
